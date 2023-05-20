@@ -1,12 +1,8 @@
 #pragma once
 
-#include <iostream>
-#include <vector>
-#include <iomanip>
-#include <ctime>
-#include <chrono>
+#include <string>
 #include <map>
-#include <regex>
+#include <vector>
 
 using namespace std;
 
